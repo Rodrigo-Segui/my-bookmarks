@@ -1,5 +1,6 @@
 const os = require('os');
 
+setInterval( () => {
 const {freemem, totalmem} = os;
 
 
@@ -12,5 +13,8 @@ const stats = {
   total : `${total} MB`,
   usage : `${percents}%`
 }
+console.clear()
 console.log("=== PC STATS ===");
 console.table(stats);
+
+}, 1000);
