@@ -36,4 +36,4 @@ O my-bookmarks é um projeto onde é implementado uma api que realiza ações co
   
  ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/Rodrigo-Segui/my-bookmarks/blob/master/LICENSE) para mais detalhes
