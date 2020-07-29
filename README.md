@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="my-bookmarks" title="#delicinha" src="" width="500px" />
+
 </h1>
 
 # my-bookmarks
